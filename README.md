@@ -19,16 +19,16 @@ object **GUSTAVO AVILA** {
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/angularjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/git.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/337/337953.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/bootstrap.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/344/delphi-ide.png"></code>
 
 
 ## **GitHub Estatísticas**
@@ -38,7 +38,7 @@ object **GUSTAVO AVILA** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**GUSTAVO AVILA** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
@@ -50,8 +50,7 @@ object **GUSTAVO AVILA** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<a href="https://www.linkedin.com/in/gustavofelipeavila/"><img height="30" src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
+<a href="https://www.instagram.com/guh_avila31/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>
+
+
