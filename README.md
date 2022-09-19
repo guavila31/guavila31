@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://cdn3.iconfinder.com/data/icons/star-wars-color/216/obiwan-kenobi-512.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://by3301files.satorage.live.com/y4m5AqMR68B3hzAUYCSqBrqHDRsZPi5EDVzrDwt2paRtsJHRa6Pp9I1IOzjxvsDZQAyfiCCqh3h2A9Fc2gw8X2JODbYj8zaxCi2mTZrpaUlAXA5LBNAAY6uk5KwzpG2NILXyJgpKopHpjJiuWbPRDWhO0Ns0VGPGtgLQyiRHibnL4VX7ZhUKAKAaHTIffEkxSl41yQbEESGN9yWoeIhDZaZjZOlp4lZqmE2Z8_k7ULAekY?encodeFailures=1&width=243&height=183" />
+<img align="right" width="190" src="https://inspermileage.netlify.app/static/construction-e8a69aee737e7702b817bd0462e0489c.gif" alt="Programando"/>
 
 ```kotlin
 object **GUSTAVO AVILA** {
