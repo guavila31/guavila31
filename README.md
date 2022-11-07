@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 Trabalho hoje como analista de dados e como desenvolvedor front-end<br>💻 Estou estudando e aperfeicoando meus conhecimento em Angular<br>👨‍🎓 Sou estudante de Analise e Desenvolvimento de Sistemas na FACENS<br>⚡ Sobre mim, eu sou um grande fã da cultura pop, principalmente Star Wars.
+👨‍💻 I work today as a data analyst and as a front-end developer
+💻 I'm studying and improving my knowledge in Angular
+👨‍🎓 I am a Systems Analysis and Development student at FACENS
+⚡ About me, I'm a big fan of pop culture especially, Star Wars.
 
 
 ## 🌐 Socials:
